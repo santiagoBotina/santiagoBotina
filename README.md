@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Ruby on Rails and AWS in depth, distributed systems, Kafka**
 
+- 📱 Interested on **Mobile development, both native (swift/kotlin) and cross-platform (flutter/react native)**
+
 - 📫 How to reach me **santiagoboe04@gmail.com**
 
 - ⚡ Fun fact **I enjoy music and art**
