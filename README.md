@@ -65,12 +65,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=santiagoBotina&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 - [**inParking**](https://github.com/santiagoBotina/in-parking-api) — Parking spot reservation API built with a microservice approach.
